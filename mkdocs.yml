@@ -1,0 +1,5 @@
+site_name: Grasses
+theme:
+    name: mkdocs
+    locale: en
+
