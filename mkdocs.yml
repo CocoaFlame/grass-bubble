@@ -2,4 +2,5 @@ site_name: Grasses
 theme:
     name: mkdocs
     locale: en
+    color_mode: auto
 
